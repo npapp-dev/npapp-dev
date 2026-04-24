@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @npapp-dev
 - 👀 I’m interested in Java, Angular, React and everything related to programming.
-- 🌱 I’m currently learning React-Native and Flutter.
+- 🌱 I’m currently learning about AI, Jupyter notebooks, etc. 
 - 💞️ I’m looking to collaborate on any interesting project that I can help
 - 📫 I can be reached via this site.
 
